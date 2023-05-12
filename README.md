@@ -52,5 +52,8 @@ and we can see this Feature in our demo below :
 
 ![Screenshot 2023-01-29 025509 (1)](https://github.com/menna566/Vodafone-Application-For-Blind-People-/assets/73045024/39dfb497-946f-4a6c-acf0-840eeadbcc9a)
 
-
-
+### Future work :
+we will provide :
+GPS to make the movement easier
+currancy detection to all foreign currency
+storing customer's data on cloud to help us increase the preformance of our application 
