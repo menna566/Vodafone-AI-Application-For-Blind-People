@@ -9,8 +9,11 @@ The primary challenge is the difficulty of working as a visually impaired or bli
 ## Approach:
 Our solution Consists of 4 main things :
 1-Object Detection 
+
 2-OCR
-3-QR code Detector 
+
+3-QR code Detector
+
 4-Cash Reader
 
 ##### -Object Detection :
