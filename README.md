@@ -1,4 +1,4 @@
-# Vodafone Ai-Application-For-Blind-People-
+# Vodafone Ai-App-For-Blind-People-
 ## Description :
 Our project aims to improve the working environment for blind employeesas as we seek to address the unique challenges that faced them by enabling them to have equal opportunities in the workplace with implementing smart solutions we aim to create an inclusive workspace where blind employees feel valued, supported, and empowered.
 
